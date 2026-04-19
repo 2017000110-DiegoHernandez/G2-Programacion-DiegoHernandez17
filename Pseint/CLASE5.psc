@@ -1,6 +1,6 @@
 Algoritmo CLASE5
 	Definir a Como Real
-	Escribir "Ingrese el número de mes"
+	Escribir "Ingrese el nÃºmero de mes"
 	Leer a
 	Segun a Hacer
 		1:
@@ -28,6 +28,6 @@ Algoritmo CLASE5
 		12:
 			Escribir "Estamos en DICIEMBRE, tiene 31 dias."
 		De Otro Modo:
-			Escribir "Ingrese un número del 1 al 7!!!"
+			Escribir "Ingrese un nÃºmero del 1 al 12!!!"
 	Fin Segun
 FinAlgoritmo
